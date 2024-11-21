@@ -6,7 +6,6 @@ Created on 21 nov 2024
 from __future__ import annotations
 from entrega2.tipos.Agregado_lineal import Agregado_lineal
 from typing import TypeVar, Generic, List, Callable, Optional
-from abc import ABC, abstractmethod
 
 E = TypeVar('E')
 
